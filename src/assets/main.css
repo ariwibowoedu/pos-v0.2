@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply font-inter bg-light-background text-light-text-primary dark:bg-dark-background dark:text-dark-text-primary
+}
